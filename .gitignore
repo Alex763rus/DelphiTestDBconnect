@@ -1,0 +1,8 @@
+#comment
+Win32/*
+__history/*
+*.res
+*.identcache
+*.dpr
+*.dproj
+*.local
