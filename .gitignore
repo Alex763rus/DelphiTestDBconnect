@@ -6,3 +6,4 @@ __history/*
 *.dpr
 *.dproj
 *.local
+__recovery/*.ini
